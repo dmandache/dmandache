@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a researcher and AI engineer passionate about biomedical imaging, deep learning and scientific software.
+
+🔬 Interests: Computer Vision · Generative Models · Multimodal AI · Trustworthy AI
+
+🛠️ Featured project: "IMPERANDI" (https://github.com/dmandache/IMPERANDI) — A Python framework for reproducible medical imaging workflows.
+
+📍 Paris, France · "Personal website" (https://dmandache.github.io/)
