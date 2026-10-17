@@ -19,6 +19,6 @@ I'm a researcher and AI engineer passionate about biomedical imaging, deep learn
 
 🔬 Interests: Computer Vision · Generative Models · Multimodal AI · Trustworthy AI
 
-🛠️ Featured project: "IMPERANDI" (https://github.com/dmandache/IMPERANDI) — A Python framework for reproducible medical imaging workflows.
+🛠️ Featured project: [IMPERANDI](https://github.com/dmandache/IMPERANDI) — A Python framework for reproducible medical imaging workflows of CT & MRI cohorts.
 
-📍 Paris, France · "Personal website" (https://dmandache.github.io/)
+📍 Paris, France · [Personal website](https://dmandache.github.io/)
